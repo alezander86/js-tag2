@@ -1,0 +1,1 @@
+1. Application js-tag2 has been successfully deployed!!
